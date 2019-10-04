@@ -1,6 +1,6 @@
 # cloud.google.com/go v0.34.0
 cloud.google.com/go/compute/metadata
-# code.cloudfoundry.org/bbs v0.0.0-20190823213034-0eb767be244c
+# code.cloudfoundry.org/bbs v0.0.0-20190927143358-c8e9aacab090
 code.cloudfoundry.org/bbs/encryption
 code.cloudfoundry.org/bbs/format
 code.cloudfoundry.org/bbs/models
@@ -538,12 +538,9 @@ k8s.io/metrics/pkg/apis/metrics
 k8s.io/metrics/pkg/apis/metrics/v1alpha1
 k8s.io/metrics/pkg/apis/metrics/v1beta1
 k8s.io/metrics/pkg/client/clientset/versioned
-k8s.io/metrics/pkg/client/clientset/versioned/fake
 k8s.io/metrics/pkg/client/clientset/versioned/scheme
 k8s.io/metrics/pkg/client/clientset/versioned/typed/metrics/v1alpha1
-k8s.io/metrics/pkg/client/clientset/versioned/typed/metrics/v1alpha1/fake
 k8s.io/metrics/pkg/client/clientset/versioned/typed/metrics/v1beta1
-k8s.io/metrics/pkg/client/clientset/versioned/typed/metrics/v1beta1/fake
 # k8s.io/utils v0.0.0-20190221042446-c2654d5206da
 k8s.io/utils/buffer
 k8s.io/utils/integer
